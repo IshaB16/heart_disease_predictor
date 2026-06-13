@@ -97,4 +97,4 @@ This project is built for educational and portfolio purposes only. It is **not a
 ## 👤 Author
 
 Built by Isha Bhangre 
-[LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/isha-bhangre-b551a4330/)) | [GitHub](https://github.com/IshaB16)
+[LinkedIn](https://www.linkedin.com/in/isha-bhangre-b551a4330/) | [GitHub](https://github.com/IshaB16)
